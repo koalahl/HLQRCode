@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>5C9B7F1F-543E-4CE2-8D2D-33616A410751</string>
+	<key>IDESourceControlProjectName</key>
+	<string>QRCodeScanner</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>F7496204434B689288031AB5F7DEA495B46167AD</key>
+		<string>https://github.com/hanangellove/HLQRCodeViewController.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>QRCodeScannerDemo/QRCodeScanner.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>F7496204434B689288031AB5F7DEA495B46167AD</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/hanangellove/HLQRCodeViewController.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>F7496204434B689288031AB5F7DEA495B46167AD</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>F7496204434B689288031AB5F7DEA495B46167AD</string>
+			<key>IDESourceControlWCCName</key>
+			<string>HLQRCodeViewController</string>
+		</dict>
+	</array>
+</dict>
+</plist>
